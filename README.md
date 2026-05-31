@@ -30,11 +30,11 @@ Lecture · Notes · Slides · Assignment 4
 | Module | Topic | Day | Status |
 |--------|-------|-----|--------|
 | Week 0 | Securing Accounts | Day 1 | 🔲 completed 5/30/2026 |
-| Week 1 | Securing Data | Day 1 | 🔲 Not started |
-| Week 2 | Securing Systems | Day 1 | 🔲 Not started |
-| Week 3 | Securing Software | Day 2 | 🔲 Not started |
-| Week 4 | Preserving Privacy | Day 2 | 🔲 Not started |
-| Final  | Final Project | Day 2 | 🔲 Not started |
+| Week 1 | Securing Data | Day 2 | 🔲 Not started |
+| Week 2 | Securing Systems | Day 2| 🔲 Not started |
+| Week 3 | Securing Software | Day 3 | 🔲 Not started |
+| Week 4 | Preserving Privacy | Day 3 | 🔲 Not started |
+| Final  | Final Project | Day 4 | 🔲 Not started |
 
 ---
 
