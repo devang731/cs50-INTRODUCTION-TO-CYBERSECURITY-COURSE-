@@ -1,6 +1,6 @@
 # Day 1 — May 30, 2026
 
-**Goal:** Complete Weeks 0, 1, and 2 (~3.5 hrs)
+**Goal:** Complete Weeks 0,
 
 ---
 
@@ -11,40 +11,10 @@
 - [ ] Completed Assignment 0
 
 **Key takeaways:**
-> _(write what stuck with you here)_
-
-**Anything confusing:**
-> _(note anything to revisit)_
+> Importance of password manager
+> different  types of  methods performed by people to steal data and  how to prevent that  
 
 ---
 
-## Week 1 — Securing Data
-
-- [ ] Watched lecture
-- [ ] Read notes
-- [ ] Completed Assignment 1
-
-**Key takeaways:**
-> _(write what stuck with you here)_
-
-**Anything confusing:**
-> _(note anything to revisit)_
-
----
-
-## Week 2 — Securing Systems
-
-- [ ] Watched lecture
-- [ ] Read notes
-- [ ] Completed Assignment 2
-
-**Key takeaways:**
-> _(write what stuck with you here)_
-
-**Anything confusing:**
-> _(note anything to revisit)_
-
----
-
-**Hours spent:** ___  
-**Overall feeling:** ___
+**Hours spent:** ___ 2 
+**Overall feeling:** ___ Excited and positive  
