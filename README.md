@@ -1,6 +1,6 @@
 # cs50-INTRODUCTION-TO-CYBERSECURITY-COURSE-
 Personal notes, assignments, and reflections from Harvard's [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/) course.  
-Completed as a 4-day intensive (~7 hours total).
+Completed as a 7-day intensive.
 
 ---
 
@@ -31,10 +31,10 @@ Lecture · Notes · Slides · Assignment 4
 |--------|-------|-----|--------|
 | Week 0 | Securing Accounts | Day 1 | 🔲 completed 5/30/2026 |
 | Week 1 | Securing Data | Day 2 | 🔲 completed 5/31/2026 |
-| Week 2 | Securing Systems | Day 2| 🔲 Not started |
-| Week 3 | Securing Software | Day 3 | 🔲 Not started |
-| Week 4 | Preserving Privacy | Day 3 | 🔲 Not started |
-| Final  | Final Project | Day 4 | 🔲 Not started |
+| Week 2 | Securing Systems | Day 3| 🔲 Not started |
+| Week 3 | Securing Software | Day 4 | 🔲 Not started |
+| Week 4 | Preserving Privacy | Day 5 | 🔲 Not started |
+| Final  | Final Project | Day 6 | 🔲 Not started |
 
 ---
 
@@ -58,4 +58,4 @@ Write-ups and solutions are my own work. If you're currently enrolled, please at
 
 ---
 
-Started: May 30, 2026 · Target completion: June 2, 2026
+Started: May 30, 2026 · Target completion: June 5, 2026
